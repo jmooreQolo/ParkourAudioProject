@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CEEFDFD8-6DD0-4081-08E2-26D740836A98}") = "ParkourAudioProject", "Assembly-CSharp-firstpass-vs.csproj", "{658B8C15-45CF-62B1-B4CC-AC04B240F2FB}"
+EndProject
+Project("{CEEFDFD8-6DD0-4081-08E2-26D740836A98}") = "ParkourAudioProject", "Assembly-CSharp-vs.csproj", "{6995CD14-C02C-F4E3-35C1-E6AB67F40675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658B8C15-45CF-62B1-B4CC-AC04B240F2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658B8C15-45CF-62B1-B4CC-AC04B240F2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658B8C15-45CF-62B1-B4CC-AC04B240F2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658B8C15-45CF-62B1-B4CC-AC04B240F2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6995CD14-C02C-F4E3-35C1-E6AB67F40675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6995CD14-C02C-F4E3-35C1-E6AB67F40675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6995CD14-C02C-F4E3-35C1-E6AB67F40675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6995CD14-C02C-F4E3-35C1-E6AB67F40675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+						GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VisualUI.cs">
+    <Files>
+      <File FileName="Assets\MaterialChanger.cs" Line="28" Column="5" />
+      <File FileName="Assets\VisualUI.cs" Line="37" Column="26" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\ParkourCube.cs" Line="66" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
