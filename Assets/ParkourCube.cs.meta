@@ -2,7 +2,18 @@ fileFormatVersion: 2
 guid: f5054575e0afd0143b7f1d6cd8774b20
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - noneMaterial: {fileID: 2100000, guid: cab36d2b0ea78c840be2deb24197a4f8, type: 2}
+  - lowMaterial: {fileID: 2100000, guid: 2a960f43659f93f489f4ac535b477865, type: 2}
+  - midMaterial: {fileID: 2100000, guid: 7aa3e3c9a0fdbca4f8ff54c4c729e0ef, type: 2}
+  - highMaterial: {fileID: 2100000, guid: 53e3f5ca6c2e89543b1b5a91a3a25f09, type: 2}
+  - nopeMaterial: {fileID: 2100000, guid: e4497cd0d430664498aa1f8d8ee4bfd2, type: 2}
+  - mc: {instanceID: 0}
+  - source: {instanceID: 0}
+  - slideOkay: {fileID: 8300000, guid: e40ca0688a244684786a15f8fea17d34, type: 3}
+  - slideAvoid: {fileID: 8300000, guid: 53f833932e406cf4c98a7c333a896307, type: 3}
+  - jumpOkay: {fileID: 8300000, guid: c85e333c58063eb40913ae903aa804f7, type: 3}
+  - jumpAvoid: {fileID: 8300000, guid: 35dc4fe8ac914174390e16fdcf9452b3, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

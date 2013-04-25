@@ -2,7 +2,12 @@ fileFormatVersion: 2
 guid: e9b77aa6acb239b4d8d9e8399badf64f
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - source: {instanceID: 0}
+  - confirm: {fileID: 8300000, guid: b6550d9bc20eff34ea1830cc2b0d5447, type: 3}
+  - deny: {fileID: 8300000, guid: 40f44636c9d736b44b1ba3a6d2cd0fd5, type: 3}
+  - move: {fileID: 8300000, guid: c040ba7c21eb66b48ac33c949653f97e, type: 3}
+  - select: {fileID: 8300000, guid: 30a1347e838f7a64db6945fed57d0d16, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 224a770336a3ed040848adc3a5ac75df
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - source: {instanceID: 0}
+  - walkingClip: {fileID: 8300000, guid: b12e9befe0dd1c94eac38ef720c07492, type: 3}
+  - slidingClip: {fileID: 8300000, guid: bb9f3b118c498ee40aa4c88914db2c07, type: 3}
+  - jumpingClip: {fileID: 8300000, guid: 071a70259370b0041811f28070e4d543, type: 3}
+  - charMot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

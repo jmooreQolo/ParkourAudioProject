@@ -2,10 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VisualUI.cs">
     <Files>
-      <File FileName="Assets\MaterialChanger.cs" Line="28" Column="5" />
-      <File FileName="Assets\VisualUI.cs" Line="37" Column="26" />
+      <File FileName="Assets\MaterialChanger.cs" Line="14" Column="28" />
+      <File FileName="Assets\VisualUI.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
-      <File FileName="Assets\ParkourCube.cs" Line="66" Column="26" />
+      <File FileName="Assets\ParkourCube.cs" Line="102" Column="115" />
+      <File FileName="Assets\Player.cs" Line="67" Column="23" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

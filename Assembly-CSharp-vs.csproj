@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\MaterialChanger.cs" />
      <Compile Include="Assets\ParkourCube.cs" />
+     <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\Timer.cs" />
      <Compile Include="Assets\VisualUI.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">

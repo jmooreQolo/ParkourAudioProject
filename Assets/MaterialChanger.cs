@@ -11,7 +11,7 @@ public class MaterialChanger : MonoBehaviour {
 	public Timer timer;
 	bool transitioning;
 	bool visible;
-	public float timeToTrans=3f;
+	public float timeToTrans=1f;
 	public Material visibleMat;
 	
 	// Use this for initialization
